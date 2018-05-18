@@ -7,6 +7,9 @@ The aim of the challenge is to try simple image classification models with the
 [Fashion-MNIST](https://www.kaggle.com/zalando-research/fashionmnist/data)
 and the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets.
 
+![Fashion-MNIST](https://kaggle2.blob.core.windows.net/datasets-images/2243/3791/9384af51de8baa77f6320901f53bd26b/dataset-cover.png)
+![CIFAR-10](https://ljvmiranda921.github.io/assets/png/cs231n-knn/output_3_0.png)
+
 The models that will be used are the [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 and the [Bayesian Linear Regression](https://en.wikipedia.org/wiki/Bayesian_linear_regression). Both of them have been
 written from scratch, to fully understand their internal behaviour.
